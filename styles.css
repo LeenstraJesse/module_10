@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+    margin-top: 100px;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  #game-container {
+    position: relative;
+  }
+  
+  #game-canvas {
+    border: 1px solid #333;
+  }
+  
+  #score {
+    margin-top: 10px;
+    font-weight: bold;
+    color: #333;
+  }
+  
